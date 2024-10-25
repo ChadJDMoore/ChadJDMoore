@@ -5,7 +5,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a Security Analyst/Security Engineer/Cloud Security Engineer.
+My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a Security Analyst/ Security Engineer/ Cloud Security Engineer.
 
 
 ## Cybersecurity Projects
