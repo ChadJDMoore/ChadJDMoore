@@ -7,6 +7,12 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a (Security Analyst/ Security Engineer/ Cloud Security Engineer).
 
+
+## Cybersecurity Projects
+- Detection Lab
+- SOC Automation Project
+  
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -57,8 +63,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 </div>
 
-## Cybersecurity Projects
-- Detection Lab
-- SOC Automation Project
+
 
 
