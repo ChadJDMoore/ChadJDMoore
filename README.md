@@ -20,8 +20,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Programming Language
+<div>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<div>
+    
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
