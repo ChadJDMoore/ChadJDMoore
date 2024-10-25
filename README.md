@@ -9,7 +9,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 ## Cybersecurity Projects
-- Detection Lab
+- <a href="https://google.com">Detection Lab</a>
 - SOC Automation Project
   
 
