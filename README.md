@@ -1,14 +1,11 @@
 # Hello, I'm CHAD MOORE
 <a href="https://linkedin.com/in/chadjdmoore"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a Security Analyst or Security Engineer.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
