@@ -5,7 +5,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a Security Analyst | Security Engineer | Cloud Security Engineer.
+My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a Security Analyst  | Cloud Security Engineer.
 
 
 ## Cybersecurity Projects
@@ -58,7 +58,6 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/eJPT%20Certified-000000?style=for-the-badge&logo=INE&logoColor=white" />
 
 
 
