@@ -9,7 +9,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 ## Cybersecurity Projects
-- <a href="https://google.com">Detection Lab</a>
+- <a href="https://github.com/ChadJDMoore/Email-Header-Analysis-Lab">Email Header Analysis Lab</a>
 - SOC Automation Project
   
 
