@@ -55,10 +55,7 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
 
 
 
