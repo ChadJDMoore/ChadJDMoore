@@ -12,7 +12,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 #### SOC Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab at Home
 - <a href="https://github.com/ChadJDMoore/Building-a-Malware-Analysis-Lab">Building a Malware Analysis Lab
-- <a href="https://github.com/ChadJDMoore/Email-Header-Analysis-Lab">Email Header Analysis Lab</a>
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-1">Phishing Analysis Lab 1
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
   
