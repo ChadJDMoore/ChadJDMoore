@@ -8,7 +8,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a defensive cybersecurity professional.
 
 
-## Cybersecurity Projects
+## Projects
 #### SOC Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab at Home
 - <a href="https://github.com/ChadJDMoore/Building-a-Malware-Analysis-Lab">Building a Malware Analysis Lab
