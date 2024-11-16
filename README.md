@@ -16,6 +16,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 
 #### Python Projects
+- <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Password Strength Checker
+- <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Simple Firewall Simulation
   
 
 ## Skills
