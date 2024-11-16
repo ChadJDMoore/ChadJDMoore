@@ -3,10 +3,6 @@
 
 My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
 
-## Objective
-
-My journey in Information Technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to become a defensive cybersecurity professional.
-
 
 ## Projects
 #### SOC Analyst Projects
