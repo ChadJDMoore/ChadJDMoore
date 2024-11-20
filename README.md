@@ -57,7 +57,7 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-
+<img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-00AAFF?style=for-the-badge&logo=ISC2&logoColor=white" />
 
 
 </div>
