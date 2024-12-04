@@ -5,7 +5,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 
 ## Projects
-#### SOC Analyst Projects
+#### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab at Home
 - <a href="https://github.com/ChadJDMoore/Malware-Traffic-Analysis-with-Wireshark">Malware Traffic Analysis with Wireshark
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-1">Phishing Analysis Lab 1
