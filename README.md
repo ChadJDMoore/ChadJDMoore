@@ -11,6 +11,8 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-1">Phishing Analysis Lab 1
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 
+#### Google Cybersecurity Professional Certificate Projects
+
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
