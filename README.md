@@ -18,6 +18,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - Apply filters to SQL queries
 - Analyze a vulnerable system for a small business
 - Document an incident with an incident handler's journal
+- Update a file through a Python algorithm
 
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
