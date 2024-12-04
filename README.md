@@ -13,7 +13,8 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 #### Google Cybersecurity Professional Certificate Projects
 - Conduct a security audit
--
+- Use the NIST Cybersecurity Framework to respond to a security incident
+- 
 
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
