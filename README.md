@@ -15,6 +15,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - Conduct a security audit
 - Use the NIST Cybersecurity Framework to respond to a security incident
 - Use Linux commands to manage file permissions
+- Apply filters to SQL queries
 
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
