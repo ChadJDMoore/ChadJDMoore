@@ -12,7 +12,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 
 #### Google Cybersecurity Professional Certificate Projects
--
+- Conduct a security audit
 -
 
 #### Python Projects
