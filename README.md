@@ -63,13 +63,13 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/ISC2%20CC-00AAFF?style=for-the-badge&logo=ISC2&logoColor=white" />
+## Certifications 
+
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| Google Cybersecurity Certificate   |                05/10/2024                |     <a href="https://coursera.org/share/0bb0d13d07e7bf31c5f021f730230f95">Show Credential      | 
 
 
-</div>
 
 
 
