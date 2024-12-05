@@ -11,7 +11,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-1">Phishing Analysis Lab 1
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 
-#### Google Cybersecurity Professional Certificate Projects
+#### Google Cybersecurity Certificate Projects
 - <a href="https://github.com/ChadJDMoore/Conduct-a-security-audit">Conduct a security audit
 - <a href="https://github.com/ChadJDMoore/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Use the NIST Cybersecurity Framework to respond to a security incident
 - <a href="https://github.com/ChadJDMoore/Use-Linux-commands-to-manage-file-permissions">Use Linux commands to manage file permissions
