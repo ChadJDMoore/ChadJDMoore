@@ -40,7 +40,7 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 
 ## Tools
 
-### Programming Language
+### Scripting
 <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <div>
