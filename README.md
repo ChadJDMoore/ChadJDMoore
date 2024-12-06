@@ -16,7 +16,6 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - <a href="https://github.com/ChadJDMoore/Conduct-a-security-audit">Conduct a security audit
 - <a href="https://github.com/ChadJDMoore/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Use the NIST Cybersecurity Framework to respond to a security incident
 - <a href="https://github.com/ChadJDMoore/Use-Linux-commands-to-manage-file-permissions">Use Linux commands to manage file permissions
-- <a href="https://github.com/ChadJDMoore/Apply-filters-to-SQL-queries">Apply filters to SQL queries
 - <a href="https://github.com/ChadJDMoore/Analyze-a-vulnerable-system-for-a-small-business">Analyze a vulnerable system for a small business
 - <a href="https://github.com/ChadJDMoore/Document-an-incident-with-an-incident-handler-s-journal">Document an incident with an incident handler's journal
 - <a href="https://github.com/ChadJDMoore/Update-a-file-through-a-Python-algorithm">Update a file through a Python algorithm
