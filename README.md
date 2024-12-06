@@ -18,10 +18,10 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - <a href="https://github.com/ChadJDMoore/Use-Linux-commands-to-manage-file-permissions">Use Linux commands to manage file permissions
 - <a href="https://github.com/ChadJDMoore/Analyze-a-vulnerable-system-for-a-small-business">Analyze a vulnerable system for a small business
 - <a href="https://github.com/ChadJDMoore/Document-an-incident-with-an-incident-handler-s-journal">Document an incident with an incident handler's journal
-- <a href="https://github.com/ChadJDMoore/Update-a-file-through-a-Python-algorithm">Update a file through a Python algorithm
 
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
+- <a href="https://github.com/ChadJDMoore/Update-a-file-through-a-Python-algorithm">Update a file through a Python algorithm
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
   
 
