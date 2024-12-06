@@ -32,9 +32,9 @@ Some skills I obtained from projects. To see more of my projects & skills, view 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Python Scripting                              | <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker|
+| Scripting with Python                         | <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Phishing Email Analysis                       | <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2|
+| Analyzing Phishing Emails                     | <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools 
