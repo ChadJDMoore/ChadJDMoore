@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CHAD!
+# Hi, I'm CHAD! ⚔️
 <a href="https://linkedin.com/in/chadjdmoore"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
