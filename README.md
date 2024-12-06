@@ -4,7 +4,7 @@
 My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
 
 
-## Key Projects 
+## Key Projects: 
 #### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab at Home
 - <a href="https://github.com/ChadJDMoore/Malware-Traffic-Analysis-with-Wireshark">Malware Traffic Analysis with Wireshark
@@ -25,7 +25,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
   
 
-## Skills 
+## Skills:
 
 Some skills I obtained from projects. To see more of my skills, view all of my projects above.
 
@@ -38,7 +38,7 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools 
+## Tools: 
 
 ### Scripting
 <div>
@@ -63,7 +63,7 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications 
+## Certifications:
 
 |     Certification     |               Completed               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
