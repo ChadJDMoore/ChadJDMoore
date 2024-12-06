@@ -68,9 +68,9 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 |     Certification     |               Completed               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | Google Cybersecurity Certificate   |                05/10/2024                |     <a href="https://coursera.org/share/0bb0d13d07e7bf31c5f021f730230f95">Show Credential      | 
-| ISC2 CC – Certified in Cybersecurity              |     xx/xx/xx                          |   xx           |
-| Microsoft Certified: Azure Fundamentals |   xx/xx/xx         |    xx    |
-| INE Security eJPT Certification | xx/xx/xx    | xx   |
-
+| ISC2 CC – Certified in Cybersecurity              |     XX/XX/XX                          |   XX      |
+| Microsoft Certified: Azure Fundamentals |   XX/XX/XX         |    XX    |
+| INE Security eJPT Certification | XX/XX/XX    | XX   |
+| CompTIA CySA+         | XXX-XXX-XXX      |  XX     |
 
 
