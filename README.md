@@ -27,7 +27,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 ## Skills
 
-Some skills I obtained from projects. To see more of my projects & skills, view --> <a href="https://github.com/ChadJDMoore/My-Projects">ALL PROJECTS
+Some skills I obtained from experience. To see more of my projects & skills, view --> <a href="https://github.com/ChadJDMoore/My-Projects">ALL PROJECTS
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
