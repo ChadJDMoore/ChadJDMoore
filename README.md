@@ -71,6 +71,6 @@ Some skills I obtained from projects. To see more of my skills, view all of my p
 | ISC2 CC – Certified in Cybersecurity              |     XX/XX/XX                          |   XX      |
 | Microsoft Certified: Azure Fundamentals |   XX/XX/XX         |    XX    |
 | INE Security eJPT Certification | XX/XX/XX    | XX   |
-| CompTIA CySA+         | XXX-XXX-XXX      |  XX     |
+| CompTIA CySA+         | XX-XX-XX       |  XX     |
 
 
