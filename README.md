@@ -4,7 +4,8 @@
 My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
 
 
-## Projects 
+## Key Projects 
+To see more of my projects, view --> <a href="https://github.com/ChadJDMoore/My-Projects">ALL PROJECTS
 #### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab at Home
 - <a href="https://github.com/ChadJDMoore/Malware-Traffic-Analysis-with-Wireshark">Malware Traffic Analysis with Wireshark
@@ -27,7 +28,7 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 
 ## Skills
 
-Some skills I obtained from experience. To see more of my projects & skills, view --> <a href="https://github.com/ChadJDMoore/My-Projects">ALL PROJECTS
+Some skills I obtained from experience/projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
