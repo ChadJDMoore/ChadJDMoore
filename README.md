@@ -13,13 +13,6 @@ To see more of my projects, view --> <a href="https://github.com/ChadJDMoore/My-
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 - <a href="https://github.com/ChadJDMoore/Network-Analysis-Web-Shell">Network Analysis - Web Shell
 
-#### Google Cybersecurity Certificate Projects
-- <a href="https://github.com/ChadJDMoore/Conduct-a-security-audit">Conduct a security audit
-- <a href="https://github.com/ChadJDMoore/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident">Use the NIST Cybersecurity Framework to respond to a security incident
-- <a href="https://github.com/ChadJDMoore/Use-Linux-commands-to-manage-file-permissions">Use Linux commands to manage file permissions
-- <a href="https://github.com/ChadJDMoore/Analyze-a-vulnerable-system-for-a-small-business">Analyze a vulnerable system for a small business
-- <a href="https://github.com/ChadJDMoore/Document-an-incident-with-an-incident-handler-s-journal">Document an incident with an incident handler's journal
-
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
 - <a href="https://github.com/ChadJDMoore/Update-a-file-through-a-Python-algorithm">Update a file through a Python algorithm
