@@ -66,7 +66,7 @@ Some skills I obtained from experience/projects
 | ISC2 CC              |     XX/XX/XX                          |   XX      |
 | Hack The Box - CDSA  |    XX/XX/XX                           |   XX      |
 | Microsoft Certified: Azure Fundamentals |   XX/XX/XX         |    XX     |
-| CompTIA CySA+         | XX-XX-XX       |  XX     |
+| CompTIA Security+         | XX-XX-XX       |  XX     |
 
 
 
