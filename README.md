@@ -64,7 +64,6 @@ Some skills I obtained from experience/projects
 | --------------------  | -------------------------------------- | ---------------| 
 | Google Cybersecurity Certificate   |                05/10/2024                |     <a href="https://coursera.org/share/0bb0d13d07e7bf31c5f021f730230f95">Show Credential|
 | ISC2 CC              |     XX/XX/XX                          |   XX      |
-| CompTIA Security+         | XX-XX-XX       |  XX     |
 | Hack The Box - CDSA  |    XX/XX/XX                           |   XX      |
 | Microsoft Certified: Azure Fundamentals |   XX/XX/XX         |    XX     |
 
