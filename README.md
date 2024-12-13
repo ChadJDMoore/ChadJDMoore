@@ -36,6 +36,7 @@ Some skills I obtained from experience/projects
 ### Scripting
 <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <div>
     
 ### Network
