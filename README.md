@@ -1,8 +1,7 @@
 # Hi, I'm CHAD! 🕵️
 <a href="https://linkedin.com/in/chadjdmoore"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
-
+My goal is to protect digital environments by detecting and responding to security incidents, ensuring data integrity, and mitigating risks. I am committed to developing expertise in threat analysis, incident response, and system hardening while staying ahead of emerging threats and technologies.
 
 ## Projects 
 #### Security Analyst Projects
