@@ -11,7 +11,7 @@ My goal is to protect digital environments by detecting and responding to securi
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 - <a href="https://github.com/ChadJDMoore/Network-Analysis-Web-Shell">Network Analysis - Web Shell
 
-#### Scripting Projects (Python & Bash)
+#### Scripting Projects 
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
 - <a href="https://github.com/ChadJDMoore/Update-a-file-through-a-Python-algorithm">Update a file through a Python algorithm
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
