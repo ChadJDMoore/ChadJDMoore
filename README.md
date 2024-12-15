@@ -4,8 +4,7 @@
 My goal is to strengthen digital security, ensure data integrity, and safeguard systems from threats. With a strong IT foundation and a passion for cybersecurity, I am dedicated to advancing my skills. I thrive on solving complex problems, continuous learning, and staying updated on the latest in information security.
 
 
-## Key Projects 
-To see more of my projects, view --> <a href="https://github.com/ChadJDMoore/My-Projects">ALL PROJECTS
+## Projects 
 #### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab
 - <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
