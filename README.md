@@ -8,8 +8,8 @@ My goal is to strengthen digital security, ensure data integrity, and safeguard 
 To see more of my projects, view --> <a href="https://github.com/ChadJDMoore/My-Projects">ALL PROJECTS
 #### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab
-- <a href="https://github.com/ChadJDMoore/Malware-Traffic-Analysis-with-Wireshark">Malware Traffic Analysis with Wireshark
-- <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-1">Phishing Analysis Lab 1
+- <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
+- <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
 - <a href="https://github.com/ChadJDMoore/Network-Analysis-Web-Shell">Network Analysis - Web Shell
 
