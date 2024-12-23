@@ -60,6 +60,7 @@ Some skills I obtained from experience/projects
 | ISC2 CC               |     XX/XX/XX                          |   XX      |
 | CompTIA CySA+         |   XX/XX/XX                            |    XX     |
 | Microsoft Certified: Azure Fundamentals |   XX/XX/XX          |    XX     |
+| Security Blue Team BTL1        |   XX/XX/XX                            |    XX     |
 
 
 
