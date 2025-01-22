@@ -6,6 +6,7 @@ My goal is to protect digital environments by detecting and responding to securi
 ## Projects 
 #### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab
+- <a href="https://google.com">Detection Lab
 - <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
 - <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
@@ -34,7 +35,6 @@ Some skills I obtained from experience/projects
 ### Scripting
 <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 <div>
     
 ### Network
