@@ -60,7 +60,7 @@ Some skills I obtained from experience/projects
 | ISC2 CC               |     23/01/2025                          |   XX      |
 | Microsoft Certified: Azure Fundamentals |   XX/XX/XX          |    XX     |
 | Microsoft Certified: Security Operations Analyst Associate         |   XX/XX/XX   |    XX     |
-| TCM Security PJPT |   XX/XX/XX          |    XX     |
+| ISC2 SSCP |   XX/XX/XX          |    XX     |
 
 
 
