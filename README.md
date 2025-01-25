@@ -10,7 +10,6 @@ My goal is to protect digital environments by detecting and responding to securi
 - <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
 - <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
-- <a href="https://github.com/ChadJDMoore/Network-Analysis-Web-Shell">Network Analysis - Web Shell
 
 #### Python Projects 
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
