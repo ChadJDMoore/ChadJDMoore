@@ -6,7 +6,7 @@ My goal is to protect digital environments by detecting and responding to securi
 ## Projects 
 #### Security Analyst Projects
 - <a href="https://github.com/ChadJDMoore/Building-a-SOC-Lab-at-Home">Building a SOC Lab
-- <a href="https://google.com">Detection Lab
+- <a href="https://github.com/ChadJDMoore/Detection-Lab">Detection Lab
 - <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
 - <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
