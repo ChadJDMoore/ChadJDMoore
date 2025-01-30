@@ -21,7 +21,7 @@ My goal is to protect digital environments by detecting and responding to securi
 Some skills I obtained from experience/projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ChadJDMoore/Detection-Lab">Detection Lab</a>|
 | Network Traffic Analysis                      | <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1|
 | Scripting with Python                         | <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker|
 | Security Auditing                             | <a href="https://github.com/ChadJDMoore/Conduct-a-security-audit">Conduct a security audit|
