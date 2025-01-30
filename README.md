@@ -24,7 +24,7 @@ Some skills I obtained from experience/projects
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Analysis                      | <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1|
 | Scripting with Python                         | <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker|
-| Security Auditing      | SOC Automation Lab|
+| Security Auditing                             | <a href="https://github.com/ChadJDMoore/Conduct-a-security-audit">Conduct a security audit|
 | Analyzing Phishing Emails                     | <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2|
 
 
