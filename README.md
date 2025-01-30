@@ -13,7 +13,6 @@ My goal is to protect digital environments by detecting and responding to securi
 
 #### Python Projects 
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
-- <a href="https://github.com/ChadJDMoore/Update-a-file-through-a-Python-algorithm">Update a file through a Python algorithm
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
   
 
