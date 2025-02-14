@@ -58,7 +58,7 @@ Some skills I obtained from experience/projects
 | Microsoft Certified: Azure Fundamentals        |   XX/XX/XX   |    XX     |
 | INE Security eJPT         |   XX/XX/XX   |    XX     |
 | ISC2 SSCP        |   XX/XX/XX   |    XX     |
-| OffSec OSDA |   XX/XX/XX          |    XX     |
+| Security Blue Team BTL1 |   XX/XX/XX          |    XX     |
 
 
 
