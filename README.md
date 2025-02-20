@@ -59,7 +59,7 @@ Some skills I obtained from experience/projects
 | INE Security eJPT       |   XX/XX/XX   |    XX     |
 | INE Certified Cloud Associate       |   XX/XX/XX   |    XX     |
 | ISC2 SSCP        |   XX/XX/XX   |    XX     |
-| Security Blue Team BTL1 |   XX/XX/XX          |    XX     |
+| Cisco CCNA |   XX/XX/XX          |    XX     |
 
 
 
