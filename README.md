@@ -59,6 +59,7 @@ Some skills I obtained from experience/projects
 | Microsoft Certified: Azure Security Engineer Associate       |   XX/XX/XX   |    XX     |
 | INE Security eJPT       |   XX/XX/XX   |    XX     |
 | ISC2 SSCP        |   XX/XX/XX   |    XX     |
+| Cisco CCNA       |   XX/XX/XX   |    XX     |
 
 
 
