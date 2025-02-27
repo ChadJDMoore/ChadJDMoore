@@ -57,7 +57,7 @@ Some skills I obtained from experience/projects
 | ISC2 CC               |     24/01/2025                          | <a href="https://www.credly.com/badges/d0ef73d3-4950-42e3-8188-77a74a4d145e/public_url">Show Credential|
 | Microsoft Certified: Azure Fundamentals       |   XX/XX/XX   |    XX     |
 | Cisco CCNA       |   XX/XX/XX   |    XX     |
-| TryHackMe SAL1        |   XX/XX/XX   |    XX     |
+| Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
 | ISC2 SSCP        |   XX/XX/XX   |    XX     |
 | INE Security eJPT       |   XX/XX/XX   |    XX     |
 
