@@ -58,7 +58,6 @@ Some skills I obtained from experience/projects
 | Microsoft Certified: Azure Fundamentals       |   XX/XX/XX   |    XX     |
 | Cisco CCNA       |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
-| TCM Security PSAA       |   XX/XX/XX   |    XX     |
 | TCM Security PJPT       |   XX/XX/XX   |    XX     |
 
 
