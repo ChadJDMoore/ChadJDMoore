@@ -59,8 +59,8 @@ Some skills I obtained from experience/projects
 | Microsoft Certified: Azure Fundamentals       |   13/03/2025   |    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChadMoore-5088/E0FDA6B7E8ED20FC?sharingId=B2C0C9527E7C96B3">Show Credential|
 | CompTIA Security+      |   XX/XX/XX   |    XX     |
 | Cisco CCNA    |   XX/XX/XX   |    XX     |
-| CSA CCSK    |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
+| CSA CCSK    |   XX/XX/XX   |    XX     |
 | TCM Security PJPT       |   XX/XX/XX   |    XX     |
 
 
