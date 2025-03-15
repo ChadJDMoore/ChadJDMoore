@@ -63,6 +63,7 @@ Some skills I obtained from experience/projects
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
 | CSA CCSK    |   XX/XX/XX   |    XX     |
 | TCM Security PJPT       |   XX/XX/XX   |    XX     |
+| CloudBreach OASP      |   XX/XX/XX   |    XX     |
 
 
 
