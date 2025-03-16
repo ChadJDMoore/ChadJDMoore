@@ -60,7 +60,6 @@ Some skills I obtained from experience/projects
 | CompTIA Security+      |   XX/XX/XX   |    XX     |
 | TCM Security PJPT       |   XX/XX/XX   |    XX     |
 | INE Security eJPT      |   XX/XX/XX   |    XX     |
-| CompTIA Network+    |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Administrator Associate   |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
 | CSA CCSK    |   XX/XX/XX   |    XX     |
