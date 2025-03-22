@@ -61,6 +61,7 @@ Some skills I obtained from experience/projects
 | Microsoft Certified: Azure Administrator Associate   |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
 | CSA CCSK    |   XX/XX/XX   |    XX     |
+| OffSec OSCP       |   XX/XX/XX   |    XX     |
 
 
 
