@@ -57,12 +57,11 @@ Some skills I obtained from experience/projects
 | Google Cybersecurity Certificate   |                05/10/2024                |     <a href="https://coursera.org/share/0bb0d13d07e7bf31c5f021f730230f95">Show Credential|
 | ISC2 CC               |     24/01/2025                          | <a href="https://www.credly.com/badges/d0ef73d3-4950-42e3-8188-77a74a4d145e/public_url">Show Credential|
 | Microsoft Certified: Azure Fundamentals       |   13/03/2025   |    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChadMoore-5088/E0FDA6B7E8ED20FC?sharingId=B2C0C9527E7C96B3">Show Credential|
-| CompTIA Security+      |   XX/XX/XX   |    XX     |
-| INE Security eJPT      |   XX/XX/XX   |    XX     |
+| TCM Security PJPT      |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Administrator Associate   |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
 | CSA CCSK    |   XX/XX/XX   |    XX     |
-| TCM Security PJPT       |   XX/XX/XX   |    XX     |
+
 
 
 
