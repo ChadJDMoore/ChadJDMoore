@@ -32,9 +32,9 @@ Some skills I obtained from experience/projects
 
 ### Programming/Scripting
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-FFD43B?&style=for-the-badge&logo=Python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=Java&logoColor=white" />
 </div>
     
 ### Network
