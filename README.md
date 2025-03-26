@@ -32,9 +32,9 @@ Some skills I obtained from experience/projects
 
 ### Programming/Scripting
 <div>
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
 </div>
     
 ### Network
