@@ -61,7 +61,7 @@ Some skills I obtained from experience/projects
 | TryHackMe SAL1       |   XX/XX/XX   |    XX     |
 | ISC2 SSCP    |   XX/XX/XX   |    XX     |
 | Microsoft Certified: Azure Security Engineer Associate        |   XX/XX/XX   |    XX     |
-| OffSec OSCP       |   XX/XX/XX   |    XX     |
+| Security Blue Team BTL1       |   XX/XX/XX   |    XX     |
 
 
 
